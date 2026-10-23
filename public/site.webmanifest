@@ -1,0 +1,66 @@
+{
+  "name": "AquaWay Tours — Red Sea Excursions & Luxury Charters",
+  "short_name": "AquaWay",
+  "description": "Book premier Hurghada Red Sea excursions, Orange Bay Island, Dolphin House snorkeling, PADI Scuba Diving, and Desert Safaris. Access full details and offline concierge contact.",
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "lang": "en",
+  "dir": "auto",
+  "prefer_related_applications": false,
+  "categories": [
+    "travel",
+    "tourism",
+    "lifestyle",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Orange Bay Cruise",
+      "short_name": "Orange Bay",
+      "description": "Full-day luxury cruise to Orange Bay Island",
+      "url": "/#trip-orange-bay",
+      "icons": [{ "src": "/icon.svg", "sizes": "any" }]
+    },
+    {
+      "name": "Dolphin House Cruise",
+      "short_name": "Dolphins",
+      "description": "Snorkel with wild dolphins at Shaab El Erg",
+      "url": "/#trip-dolphin-house",
+      "icons": [{ "src": "/icon.svg", "sizes": "any" }]
+    },
+    {
+      "name": "PADI Scuba Diving",
+      "short_name": "Scuba Diving",
+      "description": "Guided 2-dive Red Sea Discovery for all levels",
+      "url": "/#trip-padi-intro-dive",
+      "icons": [{ "src": "/icon.svg", "sizes": "any" }]
+    },
+    {
+      "name": "WhatsApp Concierge",
+      "short_name": "Concierge",
+      "description": "Direct 24/7 Red Sea excursion desk & support",
+      "url": "/#contact",
+      "icons": [{ "src": "/icon.svg", "sizes": "any" }]
+    }
+  ]
+}

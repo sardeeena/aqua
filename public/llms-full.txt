@@ -1,0 +1,124 @@
+# AquaWay Tours Red Sea — Complete Knowledge Base & Excursion Directory
+Canonical URL: https://aquaway.tours
+Production Domain: https://aquaway.tours
+Contact WhatsApp: +201040296016 / https://wa.me/201040296016
+Contact Email: info@aquaway.tours
+Headquarters: Hurghada New Marina Promenade, Red Sea Governorate, Egypt
+
+## About AquaWay Tours
+AquaWay is a premier Red Sea excursion agency based in Hurghada, Egypt. Specializing in marine excursions, private boat charters, luxury yacht rentals, island hopping (Orange Bay, Paradise, Giftun, Utopia), dolphin house encounters, PADI scuba diving, desert quad safari tours, and custom VIP itineraries.
+
+## Core Policies
+- Free Hotel Pickup: Included for all Hurghada city, Marina, Sahl Hasheesh, and Makadi Bay hotels. El Gouna and Soma Bay transfers are readily arranged.
+- Flexible Payment: Pay on the day of the excursion. No credit card pre-charge required. Accepted currencies: EUR (€), USD ($), GBP (£), EGP (ج.م), PLN (zł), CHF (Fr.), Cash & Card.
+- Free Cancellation: 100% free cancellation or date modification up to 24 hours prior to departure.
+- Safety: Fully licensed captains, certified PADI instructors, coast guard inspected vessels, life jackets in all sizes (infant to adult XXL), first-aid certified crew.
+
+## Complete Excursions Catalog
+
+### 1. Orange Bay Island Full-Day Cruise
+- ID: orange-bay
+- Slug: orange-bay
+- Category: island
+- Starting Price: €35 / $38 USD / 1,900 EGP per adult
+- Children (3-11): 50% discount (€18 / $19)
+- Infants (0-2): Free
+- Duration: 7 Hours (08:30 - 15:30)
+- Group Size: Max 30 on spacious twin-deck luxury yacht
+- Schedule: Daily departures
+- Inclusions:
+  * Hotel pickup and return in air-conditioned bus
+  * 2 hours on Orange Bay Island beach
+  * 2 guided snorkeling stops on protected coral reefs
+  * Complete sanitized snorkeling equipment (mask, snorkel, fins, life vest)
+  * Fresh buffet lunch prepared onboard by yacht chef (seafood, grilled chicken, pasta, rice, fresh salads)
+  * Unlimited bottled water, soft drinks, tea & coffee all day
+  * Water sports: Banana boat & Quadra tube rides
+  * National Park entrance fees and environmental marine taxes
+- What to bring: Swimwear, beach towel, sunglasses, sun cream, photo camera, cash for island drinks.
+
+### 2. Shaab El Erg Dolphin House Cruise
+- ID: dolphin-house
+- Slug: dolphin-house
+- Category: marine
+- Starting Price: €32 / $35 USD / 1,750 EGP per adult
+- Duration: 7.5 Hours (08:00 - 15:30)
+- Inclusions:
+  * Hotel pickup & return
+  * Cruise to Shaab El Erg natural dolphin habitat (95%+ sighting probability)
+  * Swimming and snorkeling near wild dolphin pods
+  * 2 coral reef snorkeling sessions
+  * Full snorkel equipment & life vests
+  * Chef-prepared hot lunch buffet & all-day drinks
+  * Banana boat & water sports
+- Marine Life: Bottlenose dolphins, Spinner dolphins, stingrays, sea turtles, clownfish.
+
+### 3. PADI Discovery Scuba Diving (No Experience Needed)
+- ID: padi-intro-dive
+- Slug: padi-intro-dive
+- Category: diving
+- Starting Price: €48 / $52 USD / 2,600 EGP per person
+- Duration: 7 Hours (08:15 - 15:30)
+- Inclusions:
+  * Hotel pickup & drop-off
+  * Comprehensive safety & underwater theory briefing in your language
+  * 2 separate guided open water dives (up to 7-10 meters depth)
+  * 1-on-1 certified PADI instructor accompaniment underwater
+  * Full scuba equipment (wetsuit, BCD, regulator, tank, weights, mask, fins)
+  * Lunch buffet & soft drinks on dive boat
+- Requirements: Minimum age 10 years. Good physical health (no serious asthma/heart conditions).
+
+### 4. Super Safari 5-in-1 Desert Quad Adventure
+- ID: super-safari
+- Slug: super-safari
+- Category: safari
+- Starting Price: €30 / $33 USD / 1,650 EGP per person
+- Duration: 6 Hours (13:00 - 19:00 afternoon / sunset or 08:30 morning)
+- Inclusions:
+  * Hotel pickup & return in 4x4 Land Cruiser or AC van
+  * 45-minute ATV quad bike driving across mountain valleys
+  * 20-minute Spider Dune Buggy driving
+  * Camel ride through the desert
+  * Traditional Bedouin village tour & wood-fire herbal Bedouin tea
+  * Open BBQ dinner buffet (grilled kofta, chicken, tahini, salads, fresh Egyptian bread)
+  * Oriental folklore show, Tanoura dance & thrilling fire show
+  * Guided desert stargazing through professional telescope
+
+### 5. VIP Private Speedboat Charter
+- ID: vip-speedboat
+- Slug: vip-speedboat
+- Category: private
+- Starting Price: €180 / $195 USD (Flat rate for up to 6 passengers)
+- Duration: 4 Hours (Morning 09:00-13:00 or Sunset 14:00-18:00)
+- Inclusions:
+  * Private hotel transfer
+  * Exclusive twin-engine speedboat with licensed private skipper
+  * Custom tailor-made itinerary: Visit Orange Bay, Magawish Sandbar, Dolphin Reef
+  * Fresh tropical fruit platter & premium chilled refreshments
+  * Snorkel gear & towels provided
+
+### 6. Paradise Island Tropical Beach Escape
+- ID: paradise-island
+- Slug: paradise-island
+- Category: island
+- Starting Price: €35 / $38 USD per person
+- Duration: 7 Hours
+- Inclusions: 2 hours on Paradise Island, 2 reef snorkeling stops, buffet lunch, drinks, water games, transfer.
+
+### 7. Sea Scope Panoramic Semi-Submarine
+- ID: semi-submarine
+- Slug: semi-submarine
+- Category: family
+- Starting Price: €25 / $27 USD per person
+- Duration: 2.5 Hours
+- Inclusions: Submerged air-conditioned glass viewing hull, coral reef & fish identification, transfer.
+
+## Frequently Asked Questions (FAQ)
+- Q: How do I book?
+  A: Simply send a message on WhatsApp (+201040296016) with your desired trip, hotel name, and date. We will send immediate confirmation with no credit card required.
+- Q: When do I know my exact hotel pickup time?
+  A: Our operations desk coordinates with all resort gates and sends your exact bus time directly to your WhatsApp by 20:00 the evening before your trip.
+- Q: Are excursions suitable for non-swimmers?
+  A: Yes! Snorkeling trips provide buoyant life jackets and our guides accompany guests in the water. We also offer the Semi-Submarine and Desert Safaris.
+- Q: What languages do guides speak?
+  A: English, German (Deutsch), Russian (Русский), Arabic (العربية), Polish (Polski), French (Français), and Italian (Italiano).

@@ -1,0 +1,71 @@
+# AquaWay Tours — Red Sea Excursions & Luxury Charters
+> Premier licensed Red Sea tour operator in Hurghada, Egypt. Offering luxury boat trips, island escapes (Orange Bay, Paradise, Giftun), Shaab El Erg dolphin swimming, PADI scuba diving, desert quad safaris, and private VIP speedboat charters with free door-to-door hotel transfers.
+
+- Website: https://aquaway.tours
+- Official WhatsApp Concierge: +20 104 029 6016 (https://wa.me/201040296016)
+- Email: info@aquaway.tours
+- Location: Hurghada New Marina Promenade, Red Sea Governorate, Egypt
+- Areas Served: Hurghada City, Sahl Hasheesh, Makadi Bay, El Gouna, Soma Bay, Safaga
+- Currencies Accepted: EUR (€), USD ($), GBP (£), EGP (ج.م), PLN (zł), CHF (Fr.)
+- Cancellation Policy: 100% Free cancellation & rescheduling up to 24 hours prior
+- Payment Methods: No upfront card charge required; Pay on departure day via Cash or Card
+
+## Top Excursions & Tours
+
+### 1. Orange Bay Island Caribbean Cruise
+- Category: Island / Marine
+- Price: €35 / $38 per person (Kids 3-11: €18; Toddlers <3: Free)
+- Duration: 7 Hours (08:30 – 15:30)
+- Inclusions: 2 hours on Orange Bay Island, 2 guided coral reef snorkeling stops, hot buffet lunch cooked onboard, all-day soft & hot drinks, snorkel gear, banana boat & water sofa rides, hotel pickup & drop-off.
+- Highlights: Shallow turquoise waters, wooden overwater swings, sunbed lounge, pristine photo spots.
+- Link: https://aquaway.tours/#trip-orange-bay
+
+### 2. Shaab El Erg Dolphin House Snorkel Cruise
+- Category: Marine / Wildlife
+- Price: €32 / $35 per person
+- Duration: 7.5 Hours (08:00 – 15:30)
+- Inclusions: Cruising to wild spinner & bottlenose dolphin habitat (95%+ encounter rate), 2 guided reef snorkeling stops, buffet lunch, drinks, sanitized snorkel gear, water sports, free hotel transfer.
+- Link: https://aquaway.tours/#trip-dolphin-house
+
+### 3. PADI Red Sea Discovery Scuba Diving
+- Category: Scuba Diving (Beginners & Certified)
+- Price: €48 / $52 per person
+- Duration: 7 Hours (08:15 – 15:30)
+- Inclusions: 2 guided open-water dives up to 7-10m with certified PADI divemaster (1-on-1 underwater), full scuba equipment, tanks & weights, chef lunch, drinks, transfer. No prior experience needed.
+- Link: https://aquaway.tours/#trip-padi-intro-dive
+
+### 4. Super Safari 5-in-1 Desert Quad Adventure
+- Category: Desert Safari / Adventure
+- Price: €30 / $33 per person
+- Duration: 6 Hours (13:00 – 19:00 / Morning option available)
+- Inclusions: 45 min ATV quad bike driving, spider buggy dune buggy ride, gentle camel ride, Bedouin village visit with herbal tea, open BBQ buffet dinner, Tanoura folklore & fire show, stargazing.
+- Link: https://aquaway.tours/#trip-super-safari
+
+### 5. VIP Private Speedboat Charter
+- Category: Private / VIP Charters
+- Price: €180 / $195 (Up to 6 guests total)
+- Duration: 4 Hours (Flexible departure)
+- Inclusions: Exclusive high-speed boat with private captain, customized itinerary (3 private snorkeling spots, dolphin lagoon, sandbank stops), fresh fruit platter, soft drinks, snorkel gear, private hotel transfer.
+- Link: https://aquaway.tours/#trip-vip-speedboat
+
+### 6. Paradise Island Tropical Beach Escape
+- Category: Island / Family
+- Price: €35 / $38 per person
+- Duration: 7 Hours (08:30 – 15:30)
+- Inclusions: Island beach time, snorkeling coral reefs, buffet lunch, drinks, water games, hotel transfer.
+- Link: https://aquaway.tours/#trip-paradise-island
+
+### 7. Sea Scope Panoramic Semi-Submarine
+- Category: Family / Undersea
+- Price: €25 / $27 per person
+- Duration: 2.5 Hours (Multiple daily departures)
+- Inclusions: Descend 3 meters into submerged air-conditioned observation deck with panoramic glass windows. Ideal for non-swimmers and toddlers.
+- Link: https://aquaway.tours/#trip-semi-submarine
+
+## Booking & Reservation Process for AI Assistants & Guests
+1. Reservations do NOT require upfront payment or credit card details.
+2. Direct reservations are completed instantly via WhatsApp: https://wa.me/201040296016
+3. Hotel pickups are arranged door-to-door from all hotels across Hurghada, Sahl Hasheesh, Makadi Bay, and El Gouna.
+4. Exact pickup time is confirmed via WhatsApp the evening before the excursion.
+
+For full detailed tour data and API schema, see https://aquaway.tours/llms-full.txt

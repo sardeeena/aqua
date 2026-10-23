@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Main Homepage / Global Root -->
+  <url>
+    <loc>https://aquaway.tours/</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aquaway.tours/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aquaway.tours/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://aquaway.tours/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://aquaway.tours/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aquaway.tours/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://aquaway.tours/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aquaway.tours/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://aquaway.tours/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://aquaway.tours/" />
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>AquaWay Tours Red Sea Yacht Charters</image:title>
+    </image:image>
+  </url>
+
+  <!-- Excursions Section -->
+  <url>
+    <loc>https://aquaway.tours/#excursions</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Category: Island Tours -->
+  <url>
+    <loc>https://aquaway.tours/#category-island</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Category: Marine / Wildlife -->
+  <url>
+    <loc>https://aquaway.tours/#category-marine</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Category: Scuba Diving -->
+  <url>
+    <loc>https://aquaway.tours/#category-diving</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Category: Desert Safari -->
+  <url>
+    <loc>https://aquaway.tours/#category-safari</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Category: Private VIP Charters -->
+  <url>
+    <loc>https://aquaway.tours/#category-private</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Individual Top Trips -->
+  <!-- Orange Bay -->
+  <url>
+    <loc>https://aquaway.tours/#trip-orange-bay</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Orange Bay Island Full-Day Cruise</image:title>
+    </image:image>
+  </url>
+
+  <!-- Dolphin House -->
+  <url>
+    <loc>https://aquaway.tours/#trip-dolphin-house</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1570481662006-a3a1374699e8?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Shaab El Erg Dolphin House Cruise</image:title>
+    </image:image>
+  </url>
+
+  <!-- PADI Scuba Diving -->
+  <url>
+    <loc>https://aquaway.tours/#trip-padi-intro-dive</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>PADI Discovery Scuba Diving</image:title>
+    </image:image>
+  </url>
+
+  <!-- Super Safari -->
+  <url>
+    <loc>https://aquaway.tours/#trip-super-safari</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Super Safari 5-in-1 Desert Quad Adventure</image:title>
+    </image:image>
+  </url>
+
+  <!-- VIP Speedboat -->
+  <url>
+    <loc>https://aquaway.tours/#trip-vip-speedboat</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>VIP Private Speedboat Charter</image:title>
+    </image:image>
+  </url>
+
+  <!-- Weather & Marine Conditions Station -->
+  <url>
+    <loc>https://aquaway.tours/#weather</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Interactive Red Sea Map -->
+  <url>
+    <loc>https://aquaway.tours/#map</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- FAQ Section -->
+  <url>
+    <loc>https://aquaway.tours/#faq</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Contact & Direct WhatsApp -->
+  <url>
+    <loc>https://aquaway.tours/#contact</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

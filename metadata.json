@@ -1,0 +1,6 @@
+{
+  "name": "AquaWay Tours & Red Sea Expeditions",
+  "description": "Hurghada's premier luxury excursion operator specializing in Red Sea diving, private yacht charters, island trips, and desert safaris.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
